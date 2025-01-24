@@ -1,4 +1,10 @@
 This is my first program with git
 
+<<<<<<< HEAD
 this is update 
 this is mnew line testy2nd file
+=======
+this is update
+
+new liertwrewrew asdft
+>>>>>>> develop
